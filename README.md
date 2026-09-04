@@ -94,9 +94,6 @@ pytest tests/ -v
 
 ---
 
-### 🌟 ตัวเลือกที่ 2: Pipeline Modern Cards (สไตล์ HTML Card Grid คลีน หรูหรา)
-
-```html
 <table width="100%">
   <tr>
     <td align="center" bgcolor="#0f172a" colspan="2">
@@ -227,13 +224,11 @@ Orthos-iDart is released under a **Source-Available Commercial License**:
 ### 💼 Commercial Tier (Over $1,000 USD Revenue)
 For commercial projects earning $\ge \$1,000\text{ USD}$, a perpetual, single-project commercial license is available for a one-time fee of **$8.60 USD**.
 
-<div align="center">
-  <br />
-  <a href="https://ko-fi.com/xtanthaix">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" height="42" />
+  <a href="https://ko-fi.com/s/595cccd856">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Commercial License on ko-fi.com" height="42" />
   </a>
   <br /><br />
-  <b>👉 Get Commercial License or Support Development on <a href="[https://ko-fi.com/xtanthaix](https://ko-fi.com/s/595cccd856)">Ko-fi (https://ko-fi.com/xtanthaix)</a></b>
+  <b>👉 Get Commercial License on <a href="https://ko-fi.com/s/595cccd856">Ko-fi (https://ko-fi.com/s/595cccd856)</a></b>
   <br /><br />
 </div>
 
