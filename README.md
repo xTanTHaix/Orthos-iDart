@@ -1,4 +1,4 @@
-# ⚡ Orthos-iDart v1.0.0 — Autonomous Python Execution Engine
+# ⚡ Orthos-iDart — Autonomous Python Execution Engine
 
 <div align="center">
 
@@ -89,21 +89,56 @@ pytest tests/ -v
 
 ## 🏛️ 5-Phase Optimization Pipeline
 
-```mermaid
-flowchart TD
-    classDef source fill:#1E293B,stroke:#475569,stroke-width:2px,color:#F8FAFC;
-    classDef phase fill:#0F172A,stroke:#6366F1,stroke-width:2px,color:#FFFFFF;
-    classDef vm fill:#14532D,stroke:#22C55E,stroke-width:2px,color:#FFFFFF;
-    classDef fallback fill:#7F1D1D,stroke:#EF4444,stroke-width:2px,color:#FFFFFF;
 
-    A[📥 Python Source Code / AST]:::source --> B["Phase 0: Nexus Sentinel Filter"]:::phase
-    B --> C["Phase 1-2: Compiler & Safety Gates"]:::phase
-    C -->|Within Safety Boundaries| D["Phase 3: iDart Graph Cutter"]:::phase
-    C -.->|Exceeds Complexity Threshold| G["🛡️ Native CPython Fallback"]:::fallback
-    D --> E["Phase 4: Mathematical Annihilator"]:::phase
-    E --> F["Phase 5: 256-Register Orthos VM"]:::vm
-    F --> H([⚡ Instant Output]):::source
-```
+---
+
+### 🌟 ตัวเลือกที่ 2: Pipeline Modern Cards (สไตล์ HTML Card Grid คลีน หรูหรา)
+
+```html
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#0f172a" colspan="2">
+      <b>📥 Python Source Code / AST</b> <i>(Intercepted via sys.meta_path)</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#1e293b" colspan="2">
+      <b>⚡ Phase 0: Nexus Sentinel Filter</b><br/>
+      <sub>Microsecond fast-path pre-filter & bottleneck dispatcher</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#1e293b" colspan="2">
+      <b>⚖️ Phase 1-2: Compiler & Safety Gates</b><br/>
+      <sub>AST analysis, scope resolution, taint tracking & McCabe complexity check (≤ 10)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="70%" align="center" bgcolor="#14532d">
+      <b>✅ Passed Safety Gates</b><br/>
+      <b>Phase 3: iDart Graph Cutter</b><br/>
+      <sub>Topological dependency cutting & zero-copy memory tunnels</sub>
+      <br/><br/>
+      <b>Phase 4: Mathematical Annihilator</b><br/>
+      <sub>Algebraic complexity collapse: <b>O(N) ➔ O(1)</b></sub>
+      <br/><br/>
+      <b>Phase 5: 256-Register Orthos VM</b><br/>
+      <sub>Packed bytecode execution with CRC32 integrity locking</sub>
+    </td>
+    <td width="30%" align="center" bgcolor="#7f1d1d">
+      <b>⚠️ Threshold Exceeded</b><br/><br/>
+      <b>🛡️ Graceful Fallback</b><br/>
+      <sub>Transparently dispatches execution to native <b>CPython VM</b> with zero errors or downtime.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#059669" colspan="2">
+      <b>🚀 Instant High-Performance Output</b>
+    </td>
+  </tr>
+</table>
+
+---
 
 | Phase | Component | Core Functionality |
 | :---: | :--- | :--- |
@@ -204,7 +239,7 @@ For commercial projects earning $\ge \$1,000\text{ USD}$, a perpetual, single-pr
 
 ## 📄 License
 
-Detailed terms and legal conditions can be reviewed in [LICENSE](LICENSE) and [COMMERCIAL_LICENSE_TEMPLATE.txt](COMMERCIAL_LICENSE_TEMPLATE.txt).
+Detailed terms and legal conditions can be reviewed in [LICENSE](LICENSE)
 
 ---
 
