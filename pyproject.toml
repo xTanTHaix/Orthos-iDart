@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "orthos-idart"
+version = "1.0.0"
+description = "Orthos-iDart: High-Performance Python Execution Engine"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Orthos Core Architecture Team" }
+]
+requires-python = ">=3.10"
+# Zero external dependencies required for the core engine
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-cov>=4.1.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-timeout>=2.1.0",
+    "typing_extensions>=4.5.0",
+]
+accel = [
+    "numpy>=1.24.0",
+    "cython>=3.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-q --timeout=30"

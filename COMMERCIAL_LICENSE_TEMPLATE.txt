@@ -1,0 +1,57 @@
+============================================================
+ORTHOS iDART COMMERCIAL USE LICENSE GRANT
+============================================================
+
+This document certifies that the individual or legal entity identified below has 
+acquired a perpetual, non-exclusive, non-transferable Commercial License for the 
+Orthos iDart runtime engine and software stack, in accordance with the project terms.
+
+--------------------------------------------------------------------------------
+1. LICENSEE & PROJECT IDENTIFICATION
+--------------------------------------------------------------------------------
+Ko-fi Order ID      : [YOUR KO-FI ORDER ID FROM RECEIPT]
+Date of Acquisition : [TRANSACTION DATE]
+Licensed Entity     : [DEVELOPER NAME / COMPANY NAME REGISTERED AT CHECKOUT]
+Alias / Handle      : [DEVELOPER ALIAS / GITHUB HANDLE, IF APPLICABLE]
+Commercial Project  : [NAME OF THE PROJECT UTILIZING ORTHOS iDART]
+Project URL / Repo  : [PUBLIC REPOSITORY OR PRODUCT WEBSITE]
+
+--------------------------------------------------------------------------------
+2. GRANT OF LICENSE
+--------------------------------------------------------------------------------
+Subject to receipt of the full payment ($8.60 USD) via the official Ko-fi store, 
+the Licensor hereby grants the Licensee a perpetual, non-exclusive license to:
+- Integrate, bundle, modify, and distribute the Orthos iDart source code/binaries (.oxb)
+  within the single "Commercial Project" designated above.
+- Generate commercial gross revenue exceeding the $1,000 USD free-tier threshold 
+  from the sale or licensing of the designated Commercial Project.
+
+--------------------------------------------------------------------------------
+3. CONDITIONS & RESTRICTIONS
+--------------------------------------------------------------------------------
+- Single Project Scope: This license covers exactly ONE commercial project. 
+  Separate commercial projects require separate license purchases.
+- Project Rebranding: Version updates are covered under this grant. If the 
+  project name changes, the registered Legal Entity Name or Alias must strictly 
+  match the checkout record to retain validity.
+- Proof of Validity: This text document is ONLY VALID when paired with the official 
+  Ko-fi purchase receipt bearing the matching Ko-fi Order ID and Licensee details.
+- Non-Transferable: This license cannot be resold, sublicensed, or transferred 
+  to another unrelated entity or different commercial project.
+- Verification: The Licensor reserves the right to verify the Ko-fi Order ID 
+  against official payment records during audits.
+
+--------------------------------------------------------------------------------
+4. DISCLAIMER OF WARRANTY
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+============================================================
+Licensor: xtanthaix (Orthos iDart Project)
+Project Repository: https://github.com/xtanthaix/Orthos-iDart
+Official Store: https://ko-fi.com/xtanthaix
+============================================================
