@@ -1,5 +1,7 @@
 # ⚡ Orthos-iDart — Autonomous Python Execution Engine
 
+<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/8ae99462-5f76-4b51-bd32-ab5f74aa7886" />
+
 <div align="center">
 
 **100% Pure Python · Zero Dependencies · Mathematical Reduction ($O(N) \to O(1)$) · Safe Fallback**
@@ -231,7 +233,7 @@ For commercial projects earning $\ge \$1,000\text{ USD}$, a perpetual, single-pr
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" height="42" />
   </a>
   <br /><br />
-  <b>👉 Get Commercial License or Support Development on <a href="https://ko-fi.com/xtanthaix">Ko-fi (https://ko-fi.com/xtanthaix)</a></b>
+  <b>👉 Get Commercial License or Support Development on <a href="[https://ko-fi.com/xtanthaix](https://ko-fi.com/s/595cccd856)">Ko-fi (https://ko-fi.com/xtanthaix)</a></b>
   <br /><br />
 </div>
 
