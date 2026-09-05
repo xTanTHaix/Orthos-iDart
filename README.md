@@ -183,10 +183,10 @@ Empirical measurements on Python 3.12 (Standard Library, single core):
 
 | Workload Scenario | Standard CPython 3.12 | Orthos-iDart VM | Speedup | Complexity Transition |
 |:---|:---:|:---:|:---:|:---:|
-| **Arithmetic Power Sums ($10^7$ iterations)** | `842.1 ms` | `0.041 ms` | **~20,500x** | $O(N) \to O(1)$ |
-| **Linear Recurrence (Fibonacci $N=500,000$)** | `1,215.0 ms` | `0.180 ms` | **~6,750x** | $O(N) \to O(\log N)$ |
-| **Zero-Copy Memory String Tunneling** | `430.5 ms` | `18.2 ms` | **~23.6x** | Allocation-Free |
-| **Cold Startup Overhead** | — | `< 1.2 ms` | Negligible | Pure Python Hook |
+| **Arithmetic Power Sums ($10^7$ iterations)** | `1,432.5 ms` | `0.0012 ms` | **~1,193,759x** | $O(N) \to O(1)$ |
+| **Linear Recurrence (Fibonacci $N=500,000$)** | `323.6 ms` | `0.1005 ms` | **~3,221x** | $O(N) \to O(\log N)$ |
+| **Zero-Copy Memory String Tunneling** | `43.5 ms` | `17.2 ms` | **~2.5x** | Allocation-Free |
+| **Cold Startup Overhead** | — | `< 0.01 ms` | Negligible | Pure Python Hook |
 
 *Run benchmarks locally:*
 ```bash
