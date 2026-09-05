@@ -57,6 +57,7 @@ htmlcov/
 report.json
 report_current.json
 audit_chain.json
+benchmark_results.json
 
 # ==============================================================================
 # Orthos bytecode / runtime cache dumps
@@ -96,6 +97,7 @@ ehthumbs.db
 Thumbs.db
 
 # ==============================================================================
-# Internal Documentation & Blueprints
+# Internal Documentation & Blueprints & Commercial Assets
 # ==============================================================================
 .md/
+WATERMARK/

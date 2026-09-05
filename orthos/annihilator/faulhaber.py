@@ -224,6 +224,19 @@ class FaulhaberEngine:
             logger.error(f"Binomial computation failed: {e}")
             raise
     
+    def compute_sum(self, power: int, n: int) -> float:
+        """
+        Compute Σ(i^power) for i=1 to n in O(1) closed form using Faulhaber's formula.
+        
+        Args:
+            power: Power exponent
+            n: Upper bound of summation
+            
+        Returns:
+            Sum of powers: 1^power + 2^power + ... + n^power
+        """
+        return self._compute_power_sum(n, power)
+
     def _compute_power_sum(self, n: int, k: int) -> float:
         """
         Compute Σ(i^p) for i=1 to n using Faulhaber's formula.
