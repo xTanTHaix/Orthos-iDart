@@ -29,7 +29,7 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-Zero%20(Pure%20Python)-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)](pyproject.toml)
 [![Tests Passing](https://img.shields.io/badge/tests-459%20passed-059669?style=for-the-badge&logo=pytest&logoColor=white)](tests/)
 [![Ko-fi Support](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/xtanthaix)
-[![License](https://img.shields.io/badge/license-Source--Available-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache--2.0-059669?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 
 <br>
 
@@ -220,24 +220,23 @@ ORTHOS_ENABLE_TAINT_ANALYSIS=true
 
 ---
 
-## ☕ Support & Commercial Licensing
+## 📜 License & Community Support
 
-Orthos-iDart is released under a **Source-Available Commercial License**:
+Orthos-iDart is released under the **Apache License, Version 2.0 (Apache-2.0)**.
 
-### 🌱 Free Tier
-- **100% Free** for personal, educational, research, and non-profit usage.
-- Commercial projects earning **< $1,000 USD** gross revenue.
-- Voluntary gifts, tips, and donations do *not* count toward revenue thresholds.
+- **Permissive Open-Source:** 100% Free for personal, academic, open-source, and commercial production use.
+- **Support & Sponsorship:** If Orthos-iDart powers your system guardrails, consider supporting ongoing development via Ko-fi.
 
-### 💼 Commercial Tier (Over $1,000 USD Revenue)
-For commercial projects earning $\ge \$1,000\text{ USD}$, a perpetual, single-project commercial license is available for a one-time fee of **$8.60 USD**.
+<div align="center">
 
-  <a href="https://ko-fi.com/s/595cccd856">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Commercial License on ko-fi.com" height="42" />
-  </a>
-  <br /><br />
-  <b>👉 Get Commercial License on <a href="https://ko-fi.com/s/595cccd856">Ko-fi (https://ko-fi.com/s/595cccd856)</a></b>
-  <br /><br />
+<br>
+
+<a href="https://ko-fi.com/xtanthaix">
+  <img src="https://img.shields.io/badge/Ko--fi-Support%20Creator-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi" height="36" />
+</a>
+
+<br><br>
+
 </div>
 
 ---
